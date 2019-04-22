@@ -1,5 +1,5 @@
 # Changelog - Wirtual
-
+ 20/04/2019
 ### Add pricing.html
 ### Add user-friends.html
 ### Add user-friends-found.html
@@ -94,3 +94,33 @@
 -	(108) – change class pb-8 to pb-13.
 -	(114) – change class from pt-4 pb-4 to pt-5 pb-5
 -	Delete - เมนูการชำระเงิน และ การตั้งค่า
+
+22/04/2019
+### Footer
+-	Change LINE@ icon.
+-	Add menu link.
+### Index.html
+-	(328) – change class from pt-12, pb-12 to pt-10, pb-9.
+-	(156,165,174,183,192) – add new class .btn-inactive.
+### Challeng.html
+-	(127) – change h4 tag to h3.
+-	(132-144) – comment line.
+-	(145) – delete class mb-4.
+-	(181) – change text.
+### Reward.html
+-	(200) – change text.
+-	(252) – change text.
+-	(246) – change id to reward-w-coin.
+-	(256) – change id to reward-w-coin-row.
+-	Change image to coming-soon.png.
+-	(257-284) – change image, change price element, change content.
+### Howto.html
+-	(148) – add class pb-2.
+### User-dashboard.html
+-	(165) – add class text-center.
+-	(166) – change text, add class coming-soon to h2 tag.
+-	(178,188) – change text.
+### Pre-payment.html
+-	(111) – delete class p-4, add class pt-8 pb-7 pl-4 pr-4
+-	(171) – add Shirt Size modal button.
+-	(276) – add Modal Shirt Size.
