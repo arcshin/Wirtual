@@ -1,6 +1,6 @@
 # Changelog - Wirtual
 
-22/04/2019
+## 22/04/2019
 ### Footer
 -	Change LINE@ icon.
 -	Add menu link.
@@ -31,7 +31,7 @@
 -	(276) – add Modal Shirt Size.
 
 
-20/04/2019
+## 20/04/2019
 ### Add pricing.html
 ### Add user-friends.html
 ### Add user-friends-found.html
