@@ -1,4 +1,22 @@
 # Changelog - Wirtual
+## Update 29/4/2019
+### Add pre-payment-map.html.
+### Footer
+-	Change follow icon.
+### Reward.html
+-	(123) – change h4 tag to p tag.
+-	(137) – change text to สินค้าไม่รวมกรอบติดผนัง.
+### All user page
+-	Change text from “Challenge” to “ชาเลนจ์”
+### User-account.html
+-	(230) – change text to wirtual.co
+### User-senddata.html
+-	Add javascript cleave.js to format time to be HH:MM:SS
+-	(215) – change input.
+-	(285) – add script to format time.
+### Pricing.html
+-	Revamp this page.
+
 ## Update 25/4/2019
 ### Overall 
 -	(25,26) - Add js and css for lightbox image in head tag.
