@@ -1,4 +1,57 @@
 # Changelog - Wirtual
+## Update 25/4/2019
+### Overall 
+-	(25,26) - Add js and css for lightbox image in head tag.
+-	<link rel="stylesheet" href="css/magnific-popup.css">
+-	<script src="js/jquery.magnific-popup.js"></script>
+### Footer
+-	Change mail icon.
+-	Add a link to contact.
+-	Add js. script to made image lightbox working.
+### Notification
+-	Change text, Image and content.
+### Index.html
+-	Change Coin image.
+-	(217,226,235) – add link to reward image to reward.html.
+### User Page
+-	Change side menu icon.
+-	user-account.html - (162) - Change user dashboard text to แก้ไขรูป
+-	user-dashboard.html – (199) – Add class border-dashed to change border style to dash.
+-	user-dashboard.html – (200) – change maps image.
+-	user-dashboard.html – (169) – change Image height to 60.
+-	user-challenge.html – (311) – comment out “ชาเลนที่สำเร็จ”
+-	user-challenge.html - (194) – add class align-items-center.
+-	user-challenge.html - (190,195) – change height to 30.
+-	user-challenge.html – (195) – add new icon image.
+-	user-challenge.html – (196) – add class pl-3.
+-	user-challenge.html – (198) – add class flex-float-right.
+
+### Challenge.html
+-	Change runing icon.
+-	Adjustment padding in ส่งผลการวิ่ง tab below maps.
+-	(812,821,830) – add a link to image which link to reward.html.
+-	Change FAQ content like howto.html page that can view content inside tab.
+-	(124,151) – add class mb-1.
+-	(178) – change p tag to h4 tag.
+-	(171,195) – delete class align-items-center.
+### Howto.html
+-	Change direction of arrow when open tab arrow up, when closed tab arrow down.
+-	Add image lightbox by adding a link image then add class “popup-link”.
+### Pricing.html 
+### Reward.html
+-	(134) – add link to pre-payment.html.
+### Payment.html
+-	(137) – change account name.
+-	(136) – change text.
+-	(141-161) – comment out k-bank account. 
+-	(182-186) – comment out mobile image.
+-	(175) – add class btn-upload-short to resize upload button.
+-	(128,192) – change p-5 pl-6 to pr-5 pl-5 pt-5 pb-5.
+-	(172) – add class mt-2.
+-	(130,194) – change class pr-4 to pr-3
+-	(135,200) – change h3 tag to h4 tag.
+-	(199) – add class payment-title to align content in mobile.
+-	(201) – add height 30 to img tag, add class mt-1, mb-1.
 
 ## 22/04/2019
 ### Footer
