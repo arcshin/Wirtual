@@ -1,4 +1,24 @@
 # Changelog - Wirtual
+##Update 29/4/2019
+### Change Icon to HD.
+### user-challenge.html
+-	(197) – change text format to 00:00:00
+-	(215,217) – add class border-light to lighter border color.
+-	(248,250) – add class border-light to lighter border color.
+-	(281,283) – add class border-light to lighter border color.
+-	(314,316) – add class border-light to lighter border color.
+-	(347,349) – add class border-light to lighter border color.	
+### user-senddata.html
+-	(176) – add class select to add dropdown arrow.
+### pre-payment.html
+-	(166) – add class select to add dropdown arrow.
+### User-account.html
+-	(240) – add class select to add dropdown arrow.
+### User-dashboard.html
+-	(206) – delete class mt-2.
+### Reward.html
+-	(161,213) – add a link to open pop up image.
+
 ## Update 29/4/2019
 ### Add pre-payment-map.html.
 ### Footer
