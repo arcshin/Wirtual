@@ -1,4 +1,11 @@
 # Changelog - Wirtual
+## Update 30/4/2019 – 2
+### Change reward shirt image in index.html and reward.html.
+### Flip line icon and adjustment vertical align.
+### User-dashboard.html
+-	(204) – change class from p-4 to p-2.
+-	(205) – change img tag height to 100.
+
 ## Update 30/4/2019
 ### Change Icon to HD.
 ### user-challenge.html
