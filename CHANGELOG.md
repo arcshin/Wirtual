@@ -1,4 +1,8 @@
 # Changelog - Wirtual
+## Update 6/5/2019
+### Index.html
+-	(96) – change img tag to div tag and add id  home-image.
+
 ## Update 30/4/2019 – 2
 ### Change reward shirt image in index.html and reward.html.
 ### Flip line icon and adjustment vertical align.
